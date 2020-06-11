@@ -1,5 +1,3 @@
 # hello-world
 
-Hello World repository
-
-Try-out!
+Learning github.  It is fun!
